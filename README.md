@@ -31,7 +31,7 @@ characters could also be different and sort those alphabetically too.
 
 ## Setup
 
-1. Clone the repository: git clone https://github.com/yourusername/FetchRewardsApp.git
+1. Clone the repository: git clone [https://github.com/yourusername/FetchRewardsApp.git](https://github.com/adalberto1254/FetchRewardsAndroidCodingExercise.git)
 2. Open the project in Android Studio.
 3. Build the project using the standard build configuration.
 4. Run the app on an emulator or physical device with internet access.
