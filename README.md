@@ -1,3 +1,7 @@
+# App in Action
+[Screen_recording_20250401_233454.webm](https://github.com/user-attachments/assets/30fd5db1-e0de-4983-9c18-b1def35d353b)
+
+
 # Fetch Rewards Coding Exercise
 
 This is a native Android app written in Kotlin that retrieves data from 
@@ -46,3 +50,4 @@ characters could also be different and sort those alphabetically too.
 
 ## Additional Notes
 Thanks for the opportunity, i'm looking forward to hearing back! : )
+
